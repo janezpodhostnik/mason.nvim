@@ -27,6 +27,7 @@ return {
   buf = "mason-registry.buf",
   ["buf-language-server"] = "mason-registry.buf-language-server",
   buildifier = "mason-registry.buildifier",
+  ["cadence-language-server"] = "mason-registry.cadence-language-server",
   cbfmt = "mason-registry.cbfmt",
   ["cfn-lint"] = "mason-registry.cfn-lint",
   ["chrome-debug-adapter"] = "mason-registry.chrome-debug-adapter",

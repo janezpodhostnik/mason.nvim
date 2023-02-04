@@ -20,6 +20,7 @@ return {
   c = { "clang-format", "clangd", "codelldb", "cpplint", "cpptools" },
   ["c#"] = { "clang-format", "csharp-language-server", "csharpier", "netcoredbg", "omnisharp", "omnisharp-mono", "semgrep" },
   ["c++"] = { "clang-format", "clangd", "codelldb", "cpplint", "cpptools" },
+  cadence = { "cadence-language-server" },
   clarity = { "clarity-lsp" },
   clojure = { "clojure-lsp", "joker" },
   clojurescript = { "clojure-lsp", "joker" },
