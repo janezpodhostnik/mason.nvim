@@ -35,7 +35,7 @@ return Pkg.new {
                         asset_file = asset_file
                     })
                     .with_receipt()
-                std.chmod("+x", { "flow" })
+                std.chmod("+x", { "flow-cli" })
             end,
             win = function()
                 github
